@@ -1,0 +1,14 @@
+# Dicoding Bike Analisis Dataset Submision 
+ Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in Streamlit https://images.app.goo.gl/jvu8h59g3vnRseUN8
+
+# Setup Environment - Anaconda 
+- conda create --name main-ds python=3.9
+- conda activate main-ds
+- pip install -r requirements.txt
+
+# Setup Environment - Shell/Terminal
+- mkdir proyek_analisis_data
+- cd proyek_analisis_data
+
+# Run Streamlit app 
+- streamlit run dashboard.py 
