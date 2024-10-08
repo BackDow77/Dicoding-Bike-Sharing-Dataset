@@ -11,5 +11,5 @@
 - cd proyek_analisis_data
 
 # Run Streamlit app 
-- streamlit run dashboard.py 
+- streamlit run dashboard/dashboard.py 
 atau bisa ke link [(https://dicoding-bike-sharing-dataset-lch24dftxypztz6jjnagrd.streamlit.app/)]
