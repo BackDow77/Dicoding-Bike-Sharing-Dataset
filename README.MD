@@ -12,3 +12,4 @@
 
 # Run Streamlit app 
 - streamlit run dashboard.py 
+atau bisa ke link [(https://dicoding-bike-sharing-dataset-lch24dftxypztz6jjnagrd.streamlit.app/)]
